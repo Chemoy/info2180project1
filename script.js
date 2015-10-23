@@ -68,7 +68,7 @@ var sally = new StaffMember("Sally",5);
 var bob = new StaffMember("Bob",10);
 
 // Create yourself again as 'me' with a staff discount of 20%
-
+var me = new StaffMember("Chem",20);
 
 var cashRegister = {
     total:0,
